@@ -1,0 +1,1 @@
+powershell.exe -noexit -ExecutionPolicy ByPass -file "ConfigureRemotingForAnsible.ps1"
